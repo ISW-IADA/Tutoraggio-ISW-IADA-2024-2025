@@ -1,0 +1,46 @@
+/** 
+ * Support for columns 
+ *
+ * Usage:    
+ * <div class="cols">
+ *   <div>Column 1</div>
+ *   <div>Column 2</div>
+ * </div>
+ */
+.cols {
+  display: grid;
+  grid-auto-flow: column;
+  column-gap: 1rem;
+  align-items: center;
+}
+
+/** 
+ * Support for scrollable tables 
+ */
+.scrollable {
+  overflow-y: scroll !important;
+  overflow-x: hidden !important;
+  height: 60vh;
+}
+
+/**
+ * Elements that are supposed to show only on Github
+ */
+.github-only {
+  display: none;
+}
+
+/**
+ * Watermark.
+ * It will be present on every slide, in the top right corner.
+ */
+.watermark {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  z-index: 10;
+}
+
+.watermark img {
+  width: 64px;
+}
