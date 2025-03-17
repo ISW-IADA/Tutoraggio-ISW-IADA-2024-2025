@@ -9,8 +9,6 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 - Professoressa [Maria Ilaria Lunesu](https://web.unica.it/unica/page/it/mariai_lunesu)
 - Tutor [Giacomo Medda](https://jackmedda.github.io)
 
-<!-- New subsection -->
-
 <!-- New section -->
 
 ## Lezioni
@@ -19,8 +17,8 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 
 | Lezione | Titolo |
 |---------|--------|
-| [0](https://isw_iada.github.io/ISW-IADA/lezioni/0-Introduzione/) | Introduzione  |
-| [1](https://github.com/isw_iada.github.io/ISW-IADA/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
+| [0](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/0-Introduzione/) | Introduzione  |
+| [1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
 
 </div>
 
@@ -30,7 +28,7 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 
 | Notebook    | Binder  | Google Colab |
 |--------------------------------|-------------------------------------------|-------------------------|
-| 1-Object Oriented Programming  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ISW-IADA/Tutoraggio-ISW-IADA/HEAD?filepath=lezioni%2F1-OOP%2Foop.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISW-IADA/Tutoraggio-ISW-IADA_2024_2025/blob/main/lezioni/1-OOP/oop.ipynb)
+| 1-Object Oriented Programming  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F1-OOP%2Foop.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)
 
 
 <!-- New section -->

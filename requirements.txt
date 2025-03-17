@@ -11,3 +11,5 @@ pywinpty==2.0.13
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 traitlets==5.9.0
+
+# git update-index --chmod=+x build.sh # to allow GitHub actions to execute build.sh
