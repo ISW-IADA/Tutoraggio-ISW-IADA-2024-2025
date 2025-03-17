@@ -183,4 +183,4 @@ function main() {
 # Invoke main with args if not sourced
 if ! (return 0 2> /dev/null); then
     main "$@"
-fi
+fi 
