@@ -120,13 +120,13 @@ Il progetto consente di ottenere fino a 3 punti bonus da sommare al voto di teor
 I punti saranno assegnati sulla base dei seguenti criteri:
 
 - gestione riproducibilità (dipendenze, descrizione file progetto)
-- configurazione della formattazione del codice e adeguato uso di OOP
+- formattazione del codice e adeguato uso di OOP
 - definizione corretta dei workflow automatizzati per CI
-- report profilazione performance (tempi di esecuzione, uso di librerie avanzate)
-- documentazione e commenti adeguati nel codice per ogni funzione e classe (docstring)
-- validazione codice dai test (sono previste penalità per test di accettazione non passati)
+- report performance (tempi di esecuzione, librerie avanzate)
+- documentazione e commenti per ogni funzione e classe (docstring)
+- validazione test (sono previste penalità per test non passati)
 - correttezza diagrammi UML
-- adeguata comunicazione fra i membri e uso degli strumenti Github per lavoro in team (commit, pull request, creazione di branch, revisione sulle pull request)
+- collaborazione fra i membri (commit, PRs, feature branch, PR review)
 
 <!-- .element: class="fragment" -->
 
@@ -134,17 +134,14 @@ I punti saranno assegnati sulla base dei seguenti criteri:
 
 ### Svolgimento Progetto
 
-Per iniziare il progetto è richiesto l'invio di una mail a me e alla professoressa da parte di uno dei membri del gruppo (inserire in CC gli altri membri).<br>
-La mail dovrà includere l'elenco dei membri del gruppo, con nome, cognome e matricola.
+Per iniziare il progetto è richiesto l'invio di una mail a me e alla professoressa (inserire in CC gli altri membri). La mail dovrà includere l'elenco dei membri (nome, cognome e matricola) e verranno forniti altri dettagli riguardo allo svolgimento del progetto.
 
 <!-- .element: class="fragment" -->
 
-Dopo la mail, verranno forniti altri dettagli riguardo a come iniziare il progetto.
+Il progetto va svolto entro l'anno accademico (settembre) e tutti i membri del gruppo devono essere attivamente coinvolti (registrato da GitHub).
 
 <!-- .element: class="fragment" -->
 
-Il progetto va svolto entro settembre e tutti i membri del gruppo devono essere attivamente coinvolti (controllato tramite GitHub).
+Al termine del progetto inviare una mail per concordare una data per presentarlo di persona.
 
 <!-- .element: class="fragment" -->
-
-Una volta terminato inviare una mail per concordare una data in cui il progetto verrà presentato di persona.
