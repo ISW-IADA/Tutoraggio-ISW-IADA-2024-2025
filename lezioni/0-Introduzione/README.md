@@ -80,7 +80,7 @@ Se avete suggerimenti o correzioni da fare, aprite una [issue](https://github.co
 
 ## Lezioni Tutoraggio
 
-| Data | Argomento |
+| Data Lezione | Argomento |
 |----------------|------------|
 | 18 Marzo | Programmazione a oggetti |
 | 8 Aprile | Source Control (Git e GitHub) |
@@ -102,6 +102,8 @@ Il progetto è da svolgere in gruppo, da un minimo di 2 a un massimo di 4 membri
 
 <!-- .element: class="fragment" -->
 
+<!-- New subsection -->
+
 ### Argomenti Trattati nel Progetto
 
 Tutte le librerie e strumenti pratici visti in questo tutoraggio saranno da applicare al progetto, che sfruttano principi teorici visti a lezione.
@@ -109,6 +111,8 @@ Tutte le librerie e strumenti pratici visti in questo tutoraggio saranno da appl
 L'attività di progetto sarà svolta principalmente su GitHub, affinché i suoi strumenti collaborativi vengano sfruttati durante lo sviluppo. Questo include la creazione di requisiti del codice, lo sviluppo dai diversi membri del gruppo, reciproca revisione del lavoro da parte degli altri membri e conseguente accettazione finale seguendo lo sviluppo di Continuous Development (CD).
 
 <!-- .element: class="fragment" -->
+
+<!-- New subsection -->
 
 ### Requisiti di Valutazione Progetto
 
@@ -125,6 +129,8 @@ I punti saranno assegnati sulla base dei seguenti criteri:
 - adeguata comunicazione fra i membri e uso degli strumenti Github per lavoro in team (commit, pull request, creazione di branch, revisione sulle pull request)
 
 <!-- .element: class="fragment" -->
+
+<!-- New subsection -->
 
 ### Svolgimento Progetto
 
