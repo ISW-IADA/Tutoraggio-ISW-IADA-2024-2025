@@ -19,6 +19,7 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 |---------|--------|
 | [0](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/0-Introduzione/) | Introduzione  |
 | [1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
+| [2](https://isw_iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/2-Git/) | Git e GitHub |
 
 </div>
 
@@ -36,6 +37,10 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 ## Risorse
 
 - [Introduction to OOP](https://www.pythonlikeyoumeanit.com/module_4.html)
+- [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
+- [GitHub Docs](https://docs.github.com/en)
+- [Semantic Versioning Specifications](https://semver.org/)
+- [Starter Workflows Templates](https://github.com/actions/starter-workflows)
 
 <!-- New section -->
 

@@ -116,7 +116,7 @@ L'attività di progetto sarà svolta principalmente su GitHub, affinché i suoi 
 
 ### Requisiti di Valutazione Progetto
 
-Il progetto consente di ottenere fino a 3 punti bonus da sommare al voto di teoria.
+Il progetto consente di ottenere fino a **3** punti bonus da sommare al voto di teoria.
 I punti saranno assegnati sulla base dei seguenti criteri:
 
 - gestione riproducibilità (dipendenze, descrizione file progetto)
@@ -126,7 +126,7 @@ I punti saranno assegnati sulla base dei seguenti criteri:
 - documentazione e commenti per ogni funzione e classe (docstring)
 - validazione test (sono previste penalità per test non passati)
 - correttezza diagrammi UML
-- collaborazione fra i membri (commit, PRs, feature branch, PR review)
+- adeguata collaborazione (commit, PRs, PR review)
 
 <!-- .element: class="fragment" -->
 
