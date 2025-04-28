@@ -20,6 +20,7 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 | [0](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/0-Introduzione/) | Introduzione  |
 | [1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
 | [2](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/2-Git/) | Git e GitHub |
+| [3](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/3-BestPractices/) | Best Practices |
 
 </div>
 
@@ -41,6 +42,11 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 - [GitHub Docs](https://docs.github.com/en)
 - [Semantic Versioning Specifications](https://semver.org/)
 - [Starter Workflows Templates](https://github.com/actions/starter-workflows)
+- [Writing your pyproject.toml](https://packaging.python.org/en/latest/guides/writing-pyproject-toml/)
+- [PEP8](https://peps.python.org/pep-0008)
+- [Ruff](https://docs.astral.sh/ruff/)
+- [pre-commit](https://pre-commit.com/)
+- [Scalene](https://github.com/plasma-umass/scalene)
 
 <!-- New section -->
 
