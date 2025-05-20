@@ -21,10 +21,10 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 | [1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
 | [2](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/2-Git/) | Git e GitHub |
 | [3](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/3-BestPractices/) | Best Practices |
-| [4.1](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/data_analytics.ipynb) | Ottimizzazione Esecuzione (Data Analytics) |
-| [4.2](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/optimization.ipynb) | Ottimizzazione Esecuzione (Computing Optimization) |
-| [4.3](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/parallelism.ipynb) | Ottimizzazione Esecuzione (Parallelism) |
-| [4.4](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/hyperparameter_optimization.ipynb) | Ottimizzazione Esecuzione (Hyperparameter Optimization) |
+| [4.1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/data_analytics.ipynb) | Ottimizzazione Esecuzione (Data Analytics) |
+| [4.2](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/optimization.ipynb) | Ottimizzazione Esecuzione (Computing Optimization) |
+| [4.3](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/parallelism.ipynb) | Ottimizzazione Esecuzione (Parallelism) |
+| [4.4](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/hyperparameter_optimization.ipynb) | Ottimizzazione Esecuzione (Hyperparameter Optimization) |
 
 </div>
 
