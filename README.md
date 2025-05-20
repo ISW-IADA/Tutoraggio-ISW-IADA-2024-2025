@@ -21,6 +21,10 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 | [1](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)  | Object Oriented Programming (OOP) |
 | [2](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/2-Git/) | Git e GitHub |
 | [3](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/3-BestPractices/) | Best Practices |
+| [4.1](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/data_analytics.ipynb) | Ottimizzazione Esecuzione (Data Analytics) |
+| [4.2](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/optimization.ipynb) | Ottimizzazione Esecuzione (Computing Optimization) |
+| [4.3](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/parallelism.ipynb) | Ottimizzazione Esecuzione (Parallelism) |
+| [4.4](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/hyperparameter_optimization.ipynb) | Ottimizzazione Esecuzione (Hyperparameter Optimization) |
 
 </div>
 
@@ -31,6 +35,10 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 | Notebook    | Binder  | Google Colab |
 |--------------------------------|-------------------------------------------|-------------------------|
 | 1-Object Oriented Programming  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F1-OOP%2Foop.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/1-OOP/oop.ipynb)
+| 4-Data Analytics  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F4-Optimization%2Fdata_analytics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/data_analytics.ipynb) |
+| 4-Optimization  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F4-Optimization%2Foptimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/optimization.ipynb) |
+| 4-Parallelism  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F4-Optimization%2Fparallelism.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/parallelism.ipynb) |
+| 4-Hyperparameter Optimization  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isw-iada/Tutoraggio-ISW-IADA-2024-2025/HEAD?filepath=lezioni%2F4-Optimization%2Fhyperparameter_optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/hyperparameter_optimization.ipynb) |
 
 
 <!-- New section -->
@@ -47,6 +55,11 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 - [Ruff](https://docs.astral.sh/ruff/)
 - [pre-commit](https://pre-commit.com/)
 - [Scalene](https://github.com/plasma-umass/scalene)
+- [Polars User Guide](https://docs.pola.rs/)
+- [Optuna](https://optuna.org/)
+- [Ray](https://www.ray.io/)
+- [Numba](https://numba.pydata.org/)
+- [Joblib](https://joblib.readthedocs.io/en/stable/)
 
 <!-- New section -->
 
