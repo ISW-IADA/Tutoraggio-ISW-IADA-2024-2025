@@ -11,6 +11,14 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 
 <!-- New section -->
 
+## Repository Progetto Esame (Aquarium Adventures)
+
+Il progetto d'esame consiste nello sviluppo di un'applicazione Python che implementa una pipeline di data science su dati sensoriali rilevati dalle vasche di un acquario. Il progetto richiede l'utilizzo delle tecniche e le pratiche apprese durante il corso, come la programmazione orientata agli oggetti, l'ottimizzazione delle prestazioni e le best practices di sviluppo software.
+
+**Repository**: [https://github.com/ISW-IADA/Aquarium-Adventures](https://github.com/ISW-IADA/Aquarium-Adventures)
+
+<!-- New section -->
+
 ## Lezioni
 
 <div class="scrollable">
