@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/mathutils/__init__.py
+src/mathutils/basic.py
+src/mathutils/extra.py
+src/mathutils/stats.py
+src/mathutils.egg-info/PKG-INFO
+src/mathutils.egg-info/SOURCES.txt
+src/mathutils.egg-info/dependency_links.txt
+src/mathutils.egg-info/requires.txt
+src/mathutils.egg-info/top_level.txt
+tests/test_basic.py
+tests/test_extra.py
+tests/test_stats.py

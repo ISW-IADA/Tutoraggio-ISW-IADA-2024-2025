@@ -25,6 +25,7 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 | [4.2](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/optimization.ipynb) | Ottimizzazione Esecuzione (Computing Optimization) |
 | [4.3](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/parallelism.ipynb) | Ottimizzazione Esecuzione (Parallelism) |
 | [4.4](https://github.com/isw-iada/Tutoraggio-ISW-IADA-2024-2025/blob/main/lezioni/4-Optimization/hyperparameter_optimization.ipynb) | Ottimizzazione Esecuzione (Hyperparameter Optimization) |
+| [5](https://isw-iada.github.io/Tutoraggio-ISW-IADA-2024-2025/lezioni/5-TestingPublishing/) | Testing, CI e Pubblicazione |
 
 </div>
 
@@ -60,6 +61,11 @@ Tutoraggio del corso di [Ingegneria del Software](https://unica.coursecatalogue.
 - [Ray](https://www.ray.io/)
 - [Numba](https://numba.pydata.org/)
 - [Joblib](https://joblib.readthedocs.io/en/stable/)
+- [pytest Documentation](https://docs.pytest.org/)
+- [unittest Documentation](https://docs.python.org/3/library/unittest.html)
+- [Coverage.py](https://coverage.readthedocs.io/)
+- [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
+- [uv documentation](https://docs.astral.sh/uv/)
 
 <!-- New section -->
 

@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: mathutils
+Version: 0.1.0
+Summary: Libreria di utility matematiche per scopo didattico
+Author-email: Tutor IADA <email@example.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.22.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0.0; extra == "dev"
+Requires-Dist: coverage>=7.0.0; extra == "dev"
+
+# Esempio di progetto per la lezione Testing e Publishing
+
+Questo progetto contiene esempi pratici per dimostrare:
+- Debug con pdb
+- Unit test con unittest e pytest
+- Test coverage
+- Preparazione alla pubblicazione
+
+## Struttura
+
+Il progetto implementa una semplice libreria di funzioni matematiche e statistiche.
